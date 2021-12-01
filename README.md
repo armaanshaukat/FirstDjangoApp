@@ -3,7 +3,7 @@ First Django WebApp with one response and one request
 
 Step 1: Download the file
 
-Step 2: Navigate to the "/tmp/app/armaan_prj" directory in the terminal
+Step 2: Navigate to the "/armaan_prj" directory in the terminal
 
 Step 3: In the "armaan_prj" directory, run the command "python3 manage.py runserver" to start the server
 
